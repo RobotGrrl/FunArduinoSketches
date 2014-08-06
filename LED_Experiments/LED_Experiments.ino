@@ -18,9 +18,6 @@ uint8_t r_pin = 9;
 uint8_t g_pin = 10;
 uint8_t b_pin = 11;
 
-uint8_t led_vals[] = { 0, 0, 0 };
-uint8_t prev_led_vals[] = { 0, 0, 0 };
-
 int rgb[3];
 
 
